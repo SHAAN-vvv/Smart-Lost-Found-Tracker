@@ -1,0 +1,8 @@
+# Compiled files
+*.exe
+*.o
+*.out
+
+# Generated application data
+lost_found_records.txt
+lost_found_report.txt
